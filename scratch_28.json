@@ -1,0 +1,412 @@
+[
+  {
+    "id": "some_id",
+    "region": "/",
+    "filePath": "2021.06.15/AS_NORMATIVE_DOCS_KINDS_20210614_34718c97-5105-435c-96af-93b3445a49ae.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "/",
+    "filePath": "2021.06.15/AS_NORMATIVE_DOCS_TYPES_20210614_5dac56d9-7e6e-4091-bf74-4417a0b88ad3.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "/",
+    "filePath": "2021.06.15/AS_OBJECT_LEVELS_20210614_4807582f-3c38-46ff-a9f8-18c58fd05b5a.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "/",
+    "filePath": "2021.06.15/AS_ADDHOUSE_TYPES_20210614_44855250-bc67-4fdb-8bc8-b8dc4064a2b8.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "/",
+    "filePath": "2021.06.15/AS_HOUSE_TYPES_20210614_1ae5b90e-2ebc-4288-aba1-11a987577fca.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "/",
+    "filePath": "2021.06.15/AS_PARAM_TYPES_20210614_7b5085e6-820e-4562-a5bc-ec2a61cd433f.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "/",
+    "filePath": "2021.06.15/AS_OPERATION_TYPES_20210614_0d08ad15-fa96-4559-810e-241c771e10c3.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "/",
+    "filePath": "2021.06.15/AS_ROOM_TYPES_20210614_db2ded29-6b0e-4053-b30a-b4c8a9cef6d9.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "/",
+    "filePath": "2021.06.15/AS_ADDR_OBJ_TYPES_20210614_d481f592-8264-4ddf-ad68-7315292dbd0d.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "/",
+    "filePath": "2021.06.15/AS_APARTMENT_TYPES_20210614_f7b27f6b-f77a-4903-b262-37379e987beb.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "59",
+    "filePath": "2021.06.15/59/AS_NORMATIVE_DOCS_20210614_7f9e1f61-d646-4335-a310-914b8c893c9d.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "59",
+    "filePath": "2021.06.15/59/AS_CARPLACES_PARAMS_20210614_6240d420-b478-4f4d-967e-803376717e08.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "59",
+    "filePath": "2021.06.15/59/AS_ROOMS_PARAMS_20210614_2f5a6381-b132-41ef-904b-eb406dfed520.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "59",
+    "filePath": "2021.06.15/59/AS_APARTMENTS_PARAMS_20210614_7c7abed8-8fdd-49ed-bb61-738f7a41d121.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "59",
+    "filePath": "2021.06.15/59/AS_HOUSES_PARAMS_20210614_9304b087-48b5-4281-9559-ea1b60936431.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "59",
+    "filePath": "2021.06.15/59/AS_STEADS_PARAMS_20210614_3396246f-24b4-49b2-b918-f3cb55bf5cec.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "59",
+    "filePath": "2021.06.15/59/AS_ADDR_OBJ_PARAMS_20210614_1932eb6a-d046-4684-ac5a-1b92ced0e393.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "59",
+    "filePath": "2021.06.15/59/AS_ADDR_OBJ_DIVISION_20210614_89390e6a-93d7-4d70-b538-af9002cef9f8.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "59",
+    "filePath": "2021.06.15/59/AS_CHANGE_HISTORY_20210614_d5e222f1-4cd9-4e45-9f9b-96b4eda7e246.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "59",
+    "filePath": "2021.06.15/59/AS_MUN_HIERARCHY_20210614_4d7bb4c4-ab4d-49ae-a680-a08ddaaacebb.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "59",
+    "filePath": "2021.06.15/59/AS_ADM_HIERARCHY_20210614_bb51049c-a9fc-414e-bb95-a01749d87802.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "59",
+    "filePath": "2021.06.15/59/AS_CARPLACES_20210614_847d0ec3-bed7-4fb9-ab13-f386c9eadede.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "59",
+    "filePath": "2021.06.15/59/AS_ROOMS_20210614_a657ecbb-ad5d-4c52-bc9d-dfef79bbd727.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "59",
+    "filePath": "2021.06.15/59/AS_APARTMENTS_20210614_93868a7d-00b0-4ec1-8252-257e34112db6.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "59",
+    "filePath": "2021.06.15/59/AS_STEADS_20210614_d8a323b1-7158-4d7c-afbe-d378d8bf9bac.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "59",
+    "filePath": "2021.06.15/59/AS_HOUSES_20210614_87d3add2-ec66-49ef-a597-b9322cc6b731.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "59",
+    "filePath": "2021.06.15/59/AS_ADDR_OBJ_20210614_607e456e-8bc7-4be4-93f6-1fcafb6c25a7.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "59",
+    "filePath": "2021.06.15/59/AS_REESTR_OBJECTS_20210614_ef5c8cb9-0a3a-48df-af9e-d7afbb3b93d2.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "38",
+    "filePath": "2021.06.15/38/AS_NORMATIVE_DOCS_20210614_5bf3e2aa-f985-4b08-a053-631c2bd02c31.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "38",
+    "filePath": "2021.06.15/38/AS_CARPLACES_PARAMS_20210614_6136974a-8ccd-48cd-9d53-0f88ef671670.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "38",
+    "filePath": "2021.06.15/38/AS_ROOMS_PARAMS_20210614_34814047-9661-418c-a479-6de5a14fb706.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "38",
+    "filePath": "2021.06.15/38/AS_APARTMENTS_PARAMS_20210614_a27afaf6-563c-44d8-b641-ee0b0eb4f094.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "38",
+    "filePath": "2021.06.15/38/AS_HOUSES_PARAMS_20210614_4a36e1cc-d29d-4a86-80fa-c6c260d51687.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "38",
+    "filePath": "2021.06.15/38/AS_STEADS_PARAMS_20210614_dd02110a-875c-46fd-b434-1e403a486b56.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "38",
+    "filePath": "2021.06.15/38/AS_ADDR_OBJ_PARAMS_20210614_c5197765-78a7-4649-84fd-3761caa8f593.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "38",
+    "filePath": "2021.06.15/38/AS_ADDR_OBJ_DIVISION_20210614_2d6b2815-7d79-4f11-af93-8136191e35b9.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "38",
+    "filePath": "2021.06.15/38/AS_CHANGE_HISTORY_20210614_122e1fe2-a091-441a-9048-6389d77996c9.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "38",
+    "filePath": "2021.06.15/38/AS_MUN_HIERARCHY_20210614_b88a4c8f-a0d9-4e77-9a06-42531ce3cf84.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "38",
+    "filePath": "2021.06.15/38/AS_ADM_HIERARCHY_20210614_b5e6dd45-5e90-41bc-88e3-e054540acb91.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "38",
+    "filePath": "2021.06.15/38/AS_CARPLACES_20210614_d2f719a6-f85e-4c11-99c0-abdc6ea91277.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "38",
+    "filePath": "2021.06.15/38/AS_ROOMS_20210614_e4d9c4d5-a6be-441e-aded-89391db63a40.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "38",
+    "filePath": "2021.06.15/38/AS_APARTMENTS_20210614_3ab3446d-b8a4-4751-bbf2-d946a465de60.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "38",
+    "filePath": "2021.06.15/38/AS_STEADS_20210614_064f625b-9833-4acf-a74f-f76c5691fbc3.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "38",
+    "filePath": "2021.06.15/38/AS_HOUSES_20210614_1004424b-3b21-4a4d-877c-a8a77dc629bf.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "38",
+    "filePath": "2021.06.15/38/AS_ADDR_OBJ_20210614_1860251b-c859-49a4-b8f5-7b5ca3214f49.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "38",
+    "filePath": "2021.06.15/38/AS_REESTR_OBJECTS_20210614_b3977c42-3998-43df-8dd5-c99206b8307e.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "23",
+    "filePath": "2021.06.15/23/AS_NORMATIVE_DOCS_20210614_d5ea6f2a-2cad-406d-a6ba-cd1a79c29ff1.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "23",
+    "filePath": "2021.06.15/23/AS_CARPLACES_PARAMS_20210614_c196bcf0-3dfd-49a2-8e02-452cbd075dcb.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "23",
+    "filePath": "2021.06.15/23/AS_ROOMS_PARAMS_20210614_393565e5-6aa9-4c8e-962c-8d9eee6b3a87.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "23",
+    "filePath": "2021.06.15/23/AS_APARTMENTS_PARAMS_20210614_5d7d49b6-7b34-464f-9545-836d87131960.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "23",
+    "filePath": "2021.06.15/23/AS_HOUSES_PARAMS_20210614_865760b1-35ed-43a8-83d4-87f6a287d030.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "23",
+    "filePath": "2021.06.15/23/AS_STEADS_PARAMS_20210614_b0f6ee59-67fa-4f7a-8e16-7c3c47b1c1bc.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "23",
+    "filePath": "2021.06.15/23/AS_ADDR_OBJ_PARAMS_20210614_f38edaa7-e439-4d15-855e-60c38a3ea66e.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "23",
+    "filePath": "2021.06.15/23/AS_ADDR_OBJ_DIVISION_20210614_188f58f1-7764-4846-9aa5-42bcab71ecff.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "23",
+    "filePath": "2021.06.15/23/AS_CHANGE_HISTORY_20210614_6cb7585f-2df7-4e0c-9394-6a80c025de12.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "23",
+    "filePath": "2021.06.15/23/AS_MUN_HIERARCHY_20210614_a439f620-0d03-45e8-b174-37d631b8164b.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "23",
+    "filePath": "2021.06.15/23/AS_ADM_HIERARCHY_20210614_568f78eb-8b01-47b1-a855-c78bf4acb583.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "23",
+    "filePath": "2021.06.15/23/AS_CARPLACES_20210614_ddc76144-c51e-4ec0-9ff3-c3c0f6b71610.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "23",
+    "filePath": "2021.06.15/23/AS_ROOMS_20210614_a5b32363-dd13-4c99-b128-8139f0ffe144.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "23",
+    "filePath": "2021.06.15/23/AS_APARTMENTS_20210614_d7c0bc95-e192-4574-a1a2-a4e2de893cf2.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "23",
+    "filePath": "2021.06.15/23/AS_STEADS_20210614_963ddcaf-9f98-4dcb-81fe-37989a812ad4.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "23",
+    "filePath": "2021.06.15/23/AS_HOUSES_20210614_84c9b62f-dc87-4869-8eb0-589acc04930f.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "23",
+    "filePath": "2021.06.15/23/AS_ADDR_OBJ_20210614_a8cae53a-de8f-4370-964f-abc4fa47f6f3.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "23",
+    "filePath": "2021.06.15/23/AS_REESTR_OBJECTS_20210614_68d8a0a2-9e2b-4904-bfe3-08817c9bfd6a.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "16",
+    "filePath": "2021.06.15/16/AS_NORMATIVE_DOCS_20210614_85065a5d-b86a-4ed6-a6fe-8bff25d10ffd.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "16",
+    "filePath": "2021.06.15/16/AS_CARPLACES_PARAMS_20210614_d9dbb69c-95a3-4256-a569-ab5ed2e5a6cd.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "16",
+    "filePath": "2021.06.15/16/AS_ROOMS_PARAMS_20210614_610df7d7-cd63-4f88-9e52-bf84951224ce.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "16",
+    "filePath": "2021.06.15/16/AS_APARTMENTS_PARAMS_20210614_eaee6e0b-35ba-44aa-b4d9-0a13a27571c6.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "16",
+    "filePath": "2021.06.15/16/AS_HOUSES_PARAMS_20210614_f71831aa-3774-46c6-8ea0-892eb703d221.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "16",
+    "filePath": "2021.06.15/16/AS_STEADS_PARAMS_20210614_9ad2cacb-f8cc-4ef0-9a4c-354d12336c61.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "16",
+    "filePath": "2021.06.15/16/AS_ADDR_OBJ_PARAMS_20210614_3d00c3c6-85e6-4d1e-a7d6-ccef2add7f52.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "16",
+    "filePath": "2021.06.15/16/AS_ADDR_OBJ_DIVISION_20210614_292df73a-d968-4b8b-9950-233f1d06f87e.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "16",
+    "filePath": "2021.06.15/16/AS_CHANGE_HISTORY_20210614_40251024-0bc3-46a6-a609-e02e2f863720.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "16",
+    "filePath": "2021.06.15/16/AS_MUN_HIERARCHY_20210614_acade9e6-2796-4cbf-8fe2-16fd1f92f0db.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "16",
+    "filePath": "2021.06.15/16/AS_ADM_HIERARCHY_20210614_483fbaaf-9216-4497-899b-7b1e5cffa278.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "16",
+    "filePath": "2021.06.15/16/AS_CARPLACES_20210614_bb39f73d-6c65-42b4-ac64-5d214e99b792.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "16",
+    "filePath": "2021.06.15/16/AS_ROOMS_20210614_60767d35-faee-4808-9abe-a3f8d559b3c0.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "16",
+    "filePath": "2021.06.15/16/AS_APARTMENTS_20210614_5f835b50-5b93-49b3-b35b-f3646fa36b37.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "16",
+    "filePath": "2021.06.15/16/AS_STEADS_20210614_98f80647-cdd5-46dc-b442-a6f070c5cb42.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "16",
+    "filePath": "2021.06.15/16/AS_HOUSES_20210614_08d0d438-50dd-422b-86d1-8f2ca4e661c3.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "16",
+    "filePath": "2021.06.15/16/AS_ADDR_OBJ_20210614_822550e1-bebf-4431-99c6-3af75828da47.XML"
+  },
+  {
+    "id": "some_id",
+    "region": "16",
+    "filePath": "2021.06.15/16/AS_REESTR_OBJECTS_20210614_34abfe2e-2ead-4b6b-a133-4b5888b053cd.XML"
+  }
+]
